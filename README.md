@@ -37,3 +37,4 @@ large-scale multi-tenant ERP platform.
 ## 📫 Contact Me
 
 📧 osamayasser6@gmail.com
+💼 [linkedin.com/in/osama-yasser-dev](https://www.linkedin.com/in/osama-yasser-dev)
