@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Osama Yasser 👋
 
-<!--
-**osamayasser19/osamayasser19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ Cairo University (2022–2026)  
+💼 Software Developer Intern @ ECIT for ERP Solutions  
+📍 Cairo, Egypt
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Backend-focused developer with hands-on experience building
+Web APIs with ASP.NET Core and dynamic frontends with Angular.
+Currently building a Document Management System inside a
+large-scale multi-tenant ERP platform.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** C#, TypeScript, JavaScript, Java, C++, PHP, SQL  
+**Frameworks:** ASP.NET Core, Angular, Laravel, Windows Forms, Tailwind CSS  
+**Tools:** Entity Framework, SQL Server, Git , ClickUp
+**Concepts:** RESTful APIs, OOP, Data Structures & Algorithms
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Todo App](https://github.com/osamayasser19/Todo-Project-Angular) | Full-stack todo app | Angular + .NET API |
+| [Weather App](https://github.com/osamayasser19/Angular-Weather-App) | Real-time weather data | Angular + API |
+| [CPU Scheduler](https://github.com/osamayasser19/CPU-Schedulers-Simulator) | CPU scheduling simulation | Java |
+
+---
+
+## 📫 Contact Me
+
+📧 osamayasser6@gmail.com
