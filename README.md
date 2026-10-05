@@ -1,7 +1,7 @@
 # Hi, I'm Osama Yasser 👋
 
 🎓 CS Student @ Cairo University (2022–2026)  
-💼 Software Developer Intern @ ECIT for ERP Solutions  
+💼 Ex Software Developer Intern @ ECIT for ERP Solutions  
 📍 Cairo, Egypt
 
 ---
